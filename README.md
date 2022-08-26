@@ -41,7 +41,7 @@ This software allows you to make changes to the repository and upload them for m
 ---------------------------------------
 
 Step 3: In Fork, go to File > Clone...
-Then insert the link to the repository, choose a place on your PC to save your copy of the repository, give it a name (optional) then clone it!
+Then insert the link to the repository (you can find it with the green CODE button on the root folder, then copy the HTTPS), choose a place on your PC to save your copy of the repository, give it a name (optional) then clone it!
 
 ---------------------------------------
 
