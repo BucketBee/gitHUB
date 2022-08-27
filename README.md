@@ -53,3 +53,4 @@ If you are busy with changing a file, Pulling will overwrite everything in your 
 Step 5: If you made any changes to the repository (by either adding, removing or editing files) you need to 'Stage' your changes. Go to Local Changes, then 'stage' all the files you changed.
 Preferably add a title and description so people know what the changes are, then press commit.
 Once you have committed files, press Push to send them into the repository. Make sure no one else is working on the same files as you, otherwise some conflicts might occour.
+Also don't commit any .obsidian files/folders, they're completely unnecessary
