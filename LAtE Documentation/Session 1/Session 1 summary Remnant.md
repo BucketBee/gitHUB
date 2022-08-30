@@ -1,0 +1,7 @@
+- Cherie and Uiess meet on the street and discuss roguebots
+- A bank blows up which everyone notices
+- The Qurious Quartet shoots the place up and everyone hides in cover.
+- Naoru and B are hiding together
+- Cherie and Uiess are shooting together
+- Vena is shooting but not exactly with anyone
+- Vix is watching from a distance, mostly paying attention to B and Naoru for some reason

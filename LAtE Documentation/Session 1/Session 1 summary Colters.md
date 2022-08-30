@@ -1,0 +1,9 @@
+- Claudia and Finch first meet on the street
+- Mesh looks for soap but gets robbed
+- The group chases the thief down and Pestle flies into the sky with him
+- They defeat the robber and Mesh hands out coins to Claudia and Pestle which Claudia rejects and Pestle didn't even understand the guy was a thief
+- Pestle gets the thief's boots
+- Finch almost gets in trouble with the police until Claudia steps in and gets them out of trouble
+- Finch explains he wants to get to Nova Terra and Claudia chooses to help him
+- Pestle sends Mesh on a delivery mission, purposely done by Kase so Claudia and Finch wouldn't have an easy way to get to Nova Terra
+- Pestle activates the jets of her new boots but loses control which leads into the next session

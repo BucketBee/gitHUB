@@ -262,4 +262,4 @@ Claudia
 > "But I'm not a pilot"
 > "And we need to find one"
 
-`End of session`
+`END OF SESSION`

@@ -76,4 +76,4 @@ Pestle
 > _f a i l s_
 > Heywatchout!!!!!
 
-`End of session`
+`END OF SESSION`
