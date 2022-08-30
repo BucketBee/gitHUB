@@ -11,10 +11,15 @@ Claudia
 > _Looks at Finch_
 > "Morning"
 
+Merge from [[Mesh storyline]]
+
+Mesh
+---
+> "Good morning!"
+
 Finch
 ---
 > "Hi"
-> "Good morning!"
 > "Do you know the way to Nova Terra?"
 
 Claudia
@@ -23,9 +28,14 @@ Claudia
 > "Hm? Through (I'm assuming) the spaceport, but aren’t you a little too young to go to Nova Terra?"
 > In fact, aren’t you a little young just walking by the city?
 
-Finch
+Mesh
 ---
 > "Oh"
+
+Mesh returns to [[Mesh storyline]]
+
+Finch
+---
 > "I dont know much about Nova Terra sorry. Is it far away?"
 
 Claudia

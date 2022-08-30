@@ -69,3 +69,25 @@ Claudia
 > Notices a child
 
 Merge into [[Claudia and Finch meet]]
+
+Return from [[Merchant chase]]
+
+#quarter-main
+Claudia
+---
+> _Sets groceries on the counter and arranges them_
+> _Washes face and dries it_
+> _Taps gauge_
+> _Stretches_
+> "Alright, next is Darwin"
+> _Exits home again_
+
+#shakemire 
+Claudia
+---
+> _Walks around_
+> _Thinks again_
+> _[Looks for] a pilot_
+> _Sees Finch again and a cop while [looking for] a pilot_
+
+Merge into [[Finch and Claudia's encounter with the cops]]

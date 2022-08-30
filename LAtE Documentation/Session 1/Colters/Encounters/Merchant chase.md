@@ -10,7 +10,6 @@ Claudia
 ---
 > _Oofed_
 
-
 Mesh
 ---
 > "HEY!"
@@ -430,4 +429,10 @@ Finch
 ---
 > _Looks for a nearby policeman_
 
-Continue to [[Finch and Claudia's adventure]]
+Continue to [[Finch and Claudia's encounter with the cops]]
+
+Mesh
+---
+> _Exits city_
+
+Merge into [[Finch and Claudia's encounter with the cops]]
