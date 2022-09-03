@@ -1,0 +1,7 @@
+- War breaks out downtown Røykstadt 
+- Keone and Mayple talk a solider out of fighting
+- A scientist bumps into Keone, dropping a top secret document
+- Andertoj joins the party
+- The group follows the trail of papers into the bad part of town
+- Keone buys 5 Death Sticks from a very nice salesperson on the street
+- A passerby directs them towards a derelict door
